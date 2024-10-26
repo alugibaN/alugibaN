@@ -3,12 +3,15 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer.
 
+Я разработчик, увлеченный фронтенд-разработкой. Я занимаюсь созданием современных и интерактивных интерфейсов. В моем портфолио вы найдете примеры моих работ (скоро здесь будет портфолио!!!).
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-283480?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/alugibaN)
-[![telegram](https://img.shields.io/badge/telegram-0A62c0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/staro_dver)
+Я ищу возможности применить свои навыки в реальных проектах и учиться новому у опытных разработчиков.
+
+## 🧲 Статус занятости
+
+Открыт для новых возможностей.
 
 ## 🛠 Skills
 <!-- Javascript, HTML, CSS -->
@@ -25,6 +28,15 @@ I'm a full stack developer...
 ![Nginx](https://img.shields.io/badge/nginx-00953c?style=for-the-badge&logo=Nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-white?style=for-the-badge&logo=PM2&logoColor=60f)
 
+## 🔗 Links
+
+
+<center>
+nab-khal@mail.ru <br><br>
+
+
+[![telegram](https://img.shields.io/badge/telegram-0A62c0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/staro_dver)
+<center>
 
 
 
